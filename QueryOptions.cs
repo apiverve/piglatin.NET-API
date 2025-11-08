@@ -5,7 +5,7 @@ using System.Text;
 namespace APIVerve
 {
     public class PigLatinQueryOptions {
-public string text { get; set; }
-public array exclusions { get; set; }
+public string Text { get; set; }
+public string[] Exclusions { get; set; }
 }
 }
